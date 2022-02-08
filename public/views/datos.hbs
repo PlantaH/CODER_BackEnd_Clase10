@@ -1,6 +1,4 @@
-<h1> * Productos * </h1>
-
-{{#if lenItems}}
+{{#if productos.length}}
     <div class="table-responsive">
         <table class="table table-dark">
             <tr>
@@ -8,7 +6,7 @@
                 <th>Precio</th>
                 <th>Foto</th>
             </tr>
-            {{#each items}}
+            {{#each productos}}
             <tr>
                 <td>{{this.title}}</td>
                 <td>${{this.price}}</td>
