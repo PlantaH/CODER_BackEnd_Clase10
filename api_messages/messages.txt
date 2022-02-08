@@ -5,5 +5,12 @@
     "fyh": "8/2/2022 10:56:32",
     "socketId": "Yy-cymvfir8GsY20AAAD",
     "id": 1
+  },
+  {
+    "autor": "usuario2",
+    "texto": "hola soy el 2",
+    "fyh": "8/2/2022 11:34:50",
+    "socketId": "O-NNq0v2IC9d8Tp6AAAD",
+    "id": 2
   }
 ]
